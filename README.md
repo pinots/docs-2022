@@ -36,7 +36,7 @@ $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/docs-2022
 
 # Access
 $ cd docs-2022
-
+it 
 ```
 
 ## :memo: License ##
